@@ -59,6 +59,12 @@ Ensure you have the following before using this project:
 ├── outputs.tf
 ├── providers.tf
 └── variables.tf
+├── config/
+│   ├── dev.tfvars
+│   ├── prod.tfvars
+│   ├── stage.tfvars
+└── README.md
+
 ```
 
 ## Backend Configuration
