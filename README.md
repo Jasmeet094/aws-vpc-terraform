@@ -71,14 +71,14 @@ Ensure you have the following before using this project:
 
 - [AWS Subnets Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subnet)
 
-- [Internet Gateway](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/internet_gateway)
+- [Internet Gateway Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/internet_gateway)
 
-- [NAT Gateway](https://registry.terraform.io/providers/hashicorp/aws/3.3.0/docs/resources/nat_gateway)
+- [NAT Gateway Terraform](https://registry.terraform.io/providers/hashicorp/aws/3.3.0/docs/resources/nat_gateway)
 
-- [Route Tables](https://registry.terraform.io/providers/hashicorp/aws/2.59.0/docs/resources/route_table)
+- [Route Tables Terraform](https://registry.terraform.io/providers/hashicorp/aws/2.59.0/docs/resources/route_table)
 
-- [Network ACLs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/network_acl.html)
+- [Network ACLs Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/network_acl.html)
 
-- [VPC Endpoints](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/vpc_endpoint)
+- [VPC Endpoints Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/vpc_endpoint)
 
 - [AWS Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
