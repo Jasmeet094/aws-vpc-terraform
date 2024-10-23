@@ -87,4 +87,18 @@ Ensure you have the following before using this project:
 
 - [VPC Endpoints Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/vpc_endpoint)
 
+- [AWS Elastic IP Terraform](https://registry.terraform.io/providers/hashicorp/aws/2.41.0/docs/resources/eip)
+
+- [Route Table Association Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/route_table_association.html)
+
+- [Security Group Terraform](https://registry.terraform.io/providers/hashicorp/aws/3.1.0/docs/resources/security_group)
+
+- [Cloudwatch Log Group Terraform](https://registry.terraform.io/providers/hashicorp/aws/2.52.0/docs/resources/cloudwatch_log_group)
+
+- [AWS KMS key Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/kms_key)
+
+- [AWS KMS Key Alias Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/kms_alias)
+
+- [VPC Flow Logs Terraform ](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/flow_log)
+
 - [AWS Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
