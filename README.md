@@ -58,7 +58,7 @@ Ensure you have the following before using this project:
 ├── outputs.tf
 ├── providers.tf
 └── variables.tf
-
+```
 ## Backend Configuration
 
 - Create s3 bucket in aws account and replace the name in backend.tf file 
