@@ -9,6 +9,7 @@ This project creates a Virtual Private Cloud (VPC) and its associated resources 
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Backend Configuration](#backend-configuration)
+- [Documentations](#Documentations)
 
 
 ## Overview
@@ -63,3 +64,18 @@ Ensure you have the following before using this project:
 
 - Create s3 bucket in aws account and replace the name in backend.tf file 
 - create dynamoDB table and replace the name in backend.tf file.
+
+## Documentations
+- [AWS VPC Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/vpc)
+
+- [AWS Subnets Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subnet)
+
+- [Internet Gateway](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/internet_gateway)
+
+- [NAT Gateway](https://registry.terraform.io/providers/hashicorp/aws/3.3.0/docs/resources/nat_gateway)
+
+- [Route Tables](https://registry.terraform.io/providers/hashicorp/aws/2.59.0/docs/resources/route_table)
+
+- [Network ACLs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/network_acl.html)
+
+- [VPC Endpoints](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/vpc_endpoint)
