@@ -60,6 +60,7 @@ Ensure you have the following before using this project:
 ├── providers.tf
 └── variables.tf
 ```
+
 ## Backend Configuration
 
 - Create s3 bucket in aws account and replace the name in backend.tf file 
@@ -79,3 +80,5 @@ Ensure you have the following before using this project:
 - [Network ACLs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/network_acl.html)
 
 - [VPC Endpoints](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/vpc_endpoint)
+
+- [AWS Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
