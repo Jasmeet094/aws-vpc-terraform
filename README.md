@@ -1,6 +1,6 @@
 # VPC Infrastructure with Terraform
 
-This project creates a Virtual Private Cloud (VPC) and its associated resources using Terraform. The project follows a modular approach for creating a scalable and reusable VPC architecture in AWS.
+This project creates a Virtual Private Cloud (VPC) and its associated resources using Terraform. The project follows a modular approach for creating a scalable and reusable VPC architecture in AWS. You Only need to change the values in the config/tfvars files
 
 ## Table of Contents
 - [Overview](#overview)
